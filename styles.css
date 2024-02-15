@@ -1,7 +1,5 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap'); */
-
 /* @import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth,wght@112.5,700&display=swap') */
-
 /* @import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap'); */
 
 @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
@@ -14,18 +12,17 @@
 
 body {
     height: 100vh;
-
-    /* font-family: "Rampart One", sans-serif;
+    /* font-family: "Abril Fatface", serif;
     font-weight: 400;
     font-style: normal; */
-
+    
     /* font-family: "Fredoka", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     font-variation-settings: "wdth" 112.5; */
 
-    /* font-family: "Abril Fatface", serif;
+    /* font-family: "Rampart One", sans-serif;
     font-weight: 400;
     font-style: normal; */
 
