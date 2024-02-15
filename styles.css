@@ -15,3 +15,9 @@ body {
     /* background-color: slategray; */
 }
 
+.heading {
+    font-size: 10rem;
+    font-weight: 900;
+    background: #000;
+}
+
